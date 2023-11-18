@@ -1,4 +1,4 @@
-ASP.NET Core Web API Projesi
-Bu proje, ASP.NET Core kullanılarak oluşturulmuş bir Web API uygulamasını içerir. Bu API, ürünlerin oluşturulması, okunması, güncellenmesi ve silinmesi gibi temel CRUD işlemlerini gerçekleştirmek için tasarlanmıştır.
+# ASP.NET Core Web API Project
+This project encompasses a Web API application created using ASP.NET Core. The API is designed to perform basic CRUD operations such as creating, reading, updating, and deleting products.
 
-API'yi test etmek için Swagger, Postman veya benzeri bir araç kullanabilirsiniz. Postman koleksiyonu içinde API'yi test edebilirsiniz.
+To test the API, you can utilize tools like Swagger, Postman, or similar alternatives. You can test the API within the Postman collection provided.
